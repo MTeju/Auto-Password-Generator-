@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Auto Password Genarator</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+
+        <div class="container">
+            <div class="content">
+                <div class="text">Auto Password <br>Genarator</div>
+                <div class="input">
+                    <label for="">Select Length</label>
+                    <input type="number" class="js-input" value="0">
+                </div>
+                <div class="option">
+                    <div class="l-option">
+                        <input type="checkbox" class="num">
+                        <label for="">Number's</label>
+    
+                        <br>
+    
+                        <input type="checkbox" class="lower-case lc">
+                        <label for="">Lower Cases</label>
+    
+                        <br>
+    
+                        <input type="checkbox" class="upper-case uc">
+                        <label for="">Upper Cases</label>
+    
+                        <br>
+    
+                        <input type="checkbox" class="sc">
+                        <label for="">Special Characters</label>
+                        
+    
+                    </div>
+                    <div class="r-option">
+                        <button class="genpass" onclick="autoGenPass()">Submit</button>
+                    </div>
+                </div>
+                <div class="result" >😉</div>
+            </div>
+        </div>
+        <script src="index.js"></script>
+    </body>
+</html>
