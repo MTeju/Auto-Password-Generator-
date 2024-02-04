@@ -1,4 +1,5 @@
-# 1) In Auto Password Genarator there is an input field where you will enter the length of the password. Now you can select the requirements for the password like My Password Should contain (Upper_Case, Lower_Case, Numbers, Special_characters). 
+# 1) 
+In Auto Password Genarator there is an input field where you will enter the length of the password. Now you can select the requirements for the password like My Password Should contain (Upper_Case, Lower_Case, Numbers, Special_characters). 
 # 2) If the password length is zero (0) then it will displays the messages "No 0's".
 # 3) if the Password length is negative (-ve) then it will displays the message "No -ve's".
 # 4) if the password lenght is positive (+ve) for ex.. 7. and you not selected any one of the options available, it will displays the message Please select.
