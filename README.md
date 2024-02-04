@@ -6,7 +6,7 @@
 
 ## The referal screen shots and video smples are provided below...
 ## If you wand to see how it works then you can click the link below...👇👇 the will that will takes to the website..
-    https://mteju.github.io/Auto-Password-Generator-/
+    [](https://mteju.github.io/Auto-Password-Generator-/)
 
 ## Video Sample
 https://github.com/MTeju/Auto-Password-Generator-/assets/106768538/d703038d-752b-43dd-9a1e-33bcd0ed9d4b
