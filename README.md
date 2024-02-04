@@ -1,4 +1,4 @@
-### Auto-Password-Generator-
+# Auto-Password-Generator-
 
 # 1) 
 In Auto Password Genarator there is an input field where you will enter the length of the password. Now you can select the requirements for the password like My Password Should contain (Upper_Case, Lower_Case, Numbers, Special_characters). 
