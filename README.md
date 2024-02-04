@@ -12,7 +12,7 @@
 # The referal screen shots and video smples are provided below...
 # If you wand to see how it works then you can click the link below...👇👇 the will that will takes to the website..
 
-    # Auto-Password-Generator- [GitHub Pages](https://pages.github.com/)
+    # Auto-Password-Generator- [Click Here]([Click Here](https://mteju.github.io/Auto-Password-Generator-/))
     
 
 ## Video Sample
