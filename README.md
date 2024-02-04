@@ -1,11 +1,12 @@
-## In Auto Password Genarator there is an input field where you will enter the length of the password. Now you can select the requirements for the password like My Password Should contain (Upper_Case, Lower_Case, Numbers, Special_characters). 
-## If the password length is zero (0) then it will displays the messages "No 0's".
-## if the Password length is negative (-ve) then it will displays the message "No -ve's".
-## if the password lenght is positive (+ve) for ex.. 7. and you not selected any one of the options available, it will displays the message Please select.
-## if you entered the length of the password and selected any one of this options, then it will displays the password..
+## 1) In Auto Password Genarator there is an input field where you will enter the length of the password. Now you can select the requirements for the password like My Password Should contain (Upper_Case, Lower_Case, Numbers, Special_characters). 
+## 2) If the password length is zero (0) then it will displays the messages "No 0's".
+## 3) if the Password length is negative (-ve) then it will displays the message "No -ve's".
+## 4) if the password lenght is positive (+ve) for ex.. 7. and you not selected any one of the options available, it will displays the message Please select.
+## 5) if you entered the length of the password and selected any one of this options, then it will displays the password..
 
 ## The referal screen shots and video smples are provided below...
-
+## If you wand to see how it works then you can click the link below...👇👇 the will that will takes to the website..
+    https://mteju.github.io/Auto-Password-Generator-/
 
 ## Video Sample
 https://github.com/MTeju/Auto-Password-Generator-/assets/106768538/d703038d-752b-43dd-9a1e-33bcd0ed9d4b
